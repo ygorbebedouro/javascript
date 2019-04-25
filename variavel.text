@@ -1,0 +1,18 @@
+o que são variaves?
+R = pode mudar de valor 
+
+Tipos de variaves
+
+Int: Interos como -8 ou 8
+Float: frçoes ou decimais exnplo -7.3 ou 5.9
+String: texto exenplo "vinicios"
+Boolean: true/false ou 1/0
+
+Regras
+Não podemos iniciar com numermeros: let 1abc -errado
+não podemos ultilizar caracteres especias = let *abc
+não podemos ultilizar palavras reservadas =let let 
+
+O js é cese-sntive são difernte
+curso-> min
+curso-> mai
