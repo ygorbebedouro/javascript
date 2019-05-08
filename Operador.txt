@@ -1,0 +1,26 @@
+// Operadores de comparação
+
+// Igual ( == ) - verifica se os valres são iguais.
+// Indentico ( === ) -verifica se os valores comparados são igual
+// e do mesmo tipo
+// Diferente  ( != ) verifica se os valores são diferentes.
+// Não Indentico ( !== ) Verifica se os valores são diferentes e tipos 
+// também.
+// Menor ( < ) - verifica se o valor da esquerda é menor que o valor
+//  da direita 
+//  Maior ( > ) - verifica se o valor da esquerda é maior que o valor da 
+//  direita
+
+// Menor igual ( <= ) verifica se o valor da esquerda é menor ou 
+igual da direita 
+
+// Maior Igual ( >= ) - Verifica se o valor da esquerda é maior 
+ou igual da direita
+
+ Operadores logicas
+
+E ( && ) - Verdadeiro se todas as expressõs forem Verdadeiras
+OU ( || ) - Verdadeiro se pelo menos uma da expressõs for  
+Verdadeiras
+
+Negação ( ! ) - Inverte o resultado da expressão de comparação.
